@@ -1,4 +1,4 @@
-![Game Logo](https://imgur.com/a/eoh7ChE)
+![Game Logo](https://i.imgur.com/wQYQZxv.png)
 
 # Our Team
 
