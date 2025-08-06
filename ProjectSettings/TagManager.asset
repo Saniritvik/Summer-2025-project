@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PlayerOne
+  - PlayerTwo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Dialogue
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4215619973
+    locked: 0
+  - name: Map
+    uniqueID: 2181410961
+    locked: 0
+  - name: Objects
+    uniqueID: 3136746167
+    locked: 0
+  - name: Player
+    uniqueID: 844136533
+    locked: 0
+  - name: HiddenWalls
+    uniqueID: 1131363769
+    locked: 0
