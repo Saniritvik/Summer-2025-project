@@ -6,7 +6,7 @@
 Chace Tristan Hocate, Ritvik Niraula
 
 ## Textures
-Collin Nguyen, Kaleb Kim, Ritvik Niraula, Brevyn Cherry
+Collin Nguyen, Kaleb Kim, Brevyn Cherry
 
 ## Music/SFX
 Brevyn Cherry, Chace Tristan Hocate
